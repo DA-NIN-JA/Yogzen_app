@@ -26,7 +26,7 @@ YogZen is an open-source project, and we welcome contributions from the communit
 * Backend : GoLang, MongoDB
 
 ## Installation Guide
-1. Clone the repository: git clone [https://github.com/DhairyaCodes/Yogzen_app.git]
+1. Clone the repository: git clone https://github.com/DhairyaCodes/Yogzen_app.git
 2. Install project dependencies and start the development environment: In the root directory of the project run flutter run.
 3. Make sure to install Go and set up the required environment variables such as database connection details, API keys, and other configurations.
 
